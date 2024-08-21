@@ -1,0 +1,14 @@
+C:\Users\Isabela\calculadorateste\obj\Debug\net8.0\calculadorateste.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Isabela\calculadorateste\obj\Debug\net8.0\calculadorateste.AssemblyInfoInputs.cache
+C:\Users\Isabela\calculadorateste\obj\Debug\net8.0\calculadorateste.AssemblyInfo.cs
+C:\Users\Isabela\calculadorateste\obj\Debug\net8.0\calculadorateste.csproj.CoreCompileInputs.cache
+C:\Users\Isabela\calculadorateste\obj\Debug\net8.0\calculadorateste.dll
+C:\Users\Isabela\calculadorateste\obj\Debug\net8.0\refint\calculadorateste.dll
+C:\Users\Isabela\calculadorateste\obj\Debug\net8.0\calculadorateste.pdb
+c:\Users\Isabela\calculadorateste\bin\Debug\net8.0\calculadorateste.exe
+C:\Users\Isabela\calculadorateste\bin\Debug\net8.0\calculadorateste.deps.json
+C:\Users\Isabela\calculadorateste\bin\Debug\net8.0\calculadorateste.runtimeconfig.json
+c:\Users\Isabela\calculadorateste\bin\Debug\net8.0\calculadorateste.dll
+c:\Users\Isabela\calculadorateste\bin\Debug\net8.0\calculadorateste.pdb
+C:\Users\Isabela\calculadorateste\obj\Debug\net8.0\calculadorateste.genruntimeconfig.cache
+C:\Users\Isabela\calculadorateste\obj\Debug\net8.0\ref\calculadorateste.dll
